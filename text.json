@@ -1,0 +1,18 @@
+[
+  {
+    "action": "talk",
+    "voiceName": "Hans",
+    "text": "Hallo, hier spricht Ava, Ihr KI-Assistent. Wir haben bemerkt, dass Sie kürzlich Ihren Stromanbieter gewechselt haben. Könnten Sie uns bitte Ihren neuesten Stromzählerstand mitteilen?"
+  },
+  {
+    "action": "input",
+    "eventUrl": ["https://your-server.com/events"],
+    "timeOut": 10,
+    "maxDigits": 5
+  },
+  {
+    "action": "talk",
+    "voiceName": "Hans",
+    "text": "Vielen Dank für die Angabe Ihres Zählerstandes. Wir werden Ihre Daten entsprechend aktualisieren. Bei Problemen melden wir uns bei Ihnen. Einen schönen Tag noch!"
+  }
+]
